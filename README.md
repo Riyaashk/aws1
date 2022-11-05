@@ -14,6 +14,8 @@
 Website: https://riyaashk.github.io/aws1/
 
 Youtube: https://youtu.be/BzZxY5D6SkQ
+
+Presentation: https://github.com/Riyaashk/aws1/blob/main/PPT/Prorillons.pdf
   
 ## Locutus Bot🤖
 
