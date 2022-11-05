@@ -10,6 +10,11 @@
 ## Overview📑
   A website with a chatbot integrated for quick assistance and a section dedicated to suggesting Amazon Web Services (AWS) events organized by the AWS community for the developers and techies with interest in attending those events in their area, as well as raising awareness of AWS among students and professionals and making it simpler to create certificates and posters with automated generators.
   
+## Links🔗
+Website: https://riyaashk.github.io/aws1/
+
+Youtube: https://youtu.be/BzZxY5D6SkQ
+  
 ## Locutus Bot🤖
 
 Locutus is a bespoke bot designed to help users learn about AWS Community events, user group locations, links, and for general chat.
