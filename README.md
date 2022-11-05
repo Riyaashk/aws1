@@ -31,9 +31,9 @@ Since QR codes make it simple to share links, it's good to have them for all eve
 
 Our site features a section dedicated to knowing about AWS Community events and links with a highlight of currently taking place activities.
 
-|                    Event Highlights                      |
-| :------------------------------------------------------: |
-| <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/Event%201.png" width="550"/> |
+| Future Events                                           | Events                                   |
+| -------------------------------------------------------- | -------------------------------------------------------- |
+| <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/Event%201.png" width="650"/> | <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/event%202.png" width="650"/> |
 
 ## Ease Certificate Generator🎓
 
