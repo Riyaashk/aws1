@@ -71,14 +71,14 @@ AWS Community Spots is a useful resource for locating active AWS User Groups.
 | :------------------------------------------------------: |
 | <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/location.png" width="550"/> |
 
-## Everyday AWS
+## Everyday AWS🔥
 
 |                   AWS Certification                 |
 | :------------------------------------------------------: |
 | <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/Everyday%20aws.png" width="550"/> |
 
 
-## Dark Mode:
+## Dark Mode🌃
 
 It allows you to switch between **dark and light modes** for a more appealing and customizable look!!
 
