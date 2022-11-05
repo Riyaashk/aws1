@@ -14,18 +14,18 @@
 
 Locutus is a bespoke bot designed to help users learn about AWS Community events, user group locations, links, and for general chat.
 
-|                    Locutus Bot                   |
-| :------------------------------------------------------: |
-| <img src="" width="550"/> |
+| Bot Nav                                           | Chat Demo                                    |
+| -------------------------------------------------------- | -------------------------------------------------------- |
+| <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/chat%201.png" width="650"/> | <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/chat%202.png" width="650"/> |
 
 
 ## QR-Code Generation for events🏁
 
 Since QR codes make it simple to share links, it's good to have them for all events.
 
-|                    QR Generator                    |
-| :------------------------------------------------------: |
-| <img src="" width="550"/> |
+| QR Nav                                         | Generator Form                                            | QR Code                                          |
+| -------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
+| <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/qr%201.png" width="650"/> | <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/qr%202.png" width="650"/> | <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/qr%203.png" width="650"/> |
 
 ## Event Highlights‼️
 
@@ -33,15 +33,25 @@ Our site features a section dedicated to knowing about AWS Community events and 
 
 |                    Event Highlights                      |
 | :------------------------------------------------------: |
-| <img src="" width="550"/> |
+| <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/Event%201.png" width="550"/> |
 
 ## Ease Certificate Generator🎓
 
 Our website has a certificate generator for creating rapid posters for forthcoming events.
 
+
 |                    Certificate Generator                 |
 | :------------------------------------------------------: |
 | <img src="" width="550"/> |
+
+
+## AWS Certification📄
+
+
+|                   AWS Certification                 |
+| :------------------------------------------------------: |
+| <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/certifications.png" width="550"/> |
+
 
 ## Ease Poster Generator🗞️
 
@@ -59,7 +69,7 @@ AWS Community Spots is a useful resource for locating active AWS User Groups.
 
 |                    Spots                     |
 | :------------------------------------------------------: |
-| <img src="" width="550"/> |
+| <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/location.png" width="550"/> |
 
 
 ## Dark Mode:
@@ -68,7 +78,7 @@ It allows you to switch between **dark and light modes** for a more appealing an
 
 |                    Dark Mode Preview                     |
 | :------------------------------------------------------: |
-| <img src="" width="550"/> |
+| <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/darkmode.png" width="550"/> |
 
 
 ## Authors
