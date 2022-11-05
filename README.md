@@ -40,9 +40,9 @@ Our site features a section dedicated to knowing about AWS Community events and 
 Our website has a certificate generator for creating rapid posters for forthcoming events.
 
 
-|                    Certificate Generator                 |
-| :------------------------------------------------------: |
-| <img src="" width="550"/> |
+| Generator Nav                                         | Generator Form                                            | Certificate                                          |
+| -------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
+| <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/certificate%201.png" width="650"/> | <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/certificate%202.png" width="650"/> | <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/certificate%203.png" width="650"/> |
 
 
 ## AWS Certification📄
@@ -57,9 +57,9 @@ Our website has a certificate generator for creating rapid posters for forthcomi
 
 Our website has a poster generator for creating rapid posters for forthcoming events.
 
-|                    Poster Generator                      |
-| :------------------------------------------------------: |
-| <img src="" width="550"/> |
+| Generator Nav                                           | Generator                                   |
+| -------------------------------------------------------- | -------------------------------------------------------- |
+| <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/Poster%201.png" width="650"/> | <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/poster%202.png" width="650"/> |
 
 
 
@@ -70,6 +70,12 @@ AWS Community Spots is a useful resource for locating active AWS User Groups.
 |                    Spots                     |
 | :------------------------------------------------------: |
 | <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/location.png" width="550"/> |
+
+## Everyday AWS
+
+|                   AWS Certification                 |
+| :------------------------------------------------------: |
+| <img src="https://github.com/Riyaashk/aws1/blob/main/github_ss/Everyday%20aws.png" width="550"/> |
 
 
 ## Dark Mode:
